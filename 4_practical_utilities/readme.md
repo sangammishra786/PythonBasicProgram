@@ -2,6 +2,7 @@
 
 ## Focus: Data structures (Lists/Dictionaries) and real-world logic.
 
-1. [ ] Password Generator
-2. [ ] To-Do List (Command Line)
-3. [ ] Contact Book
+1. [x] Password Generator
+2. [x] Password Generator using Functions
+3. [x] To-Do List (Command Line)
+4. [x] Contact Book
